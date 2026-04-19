@@ -1,0 +1,19 @@
+# Maven build output
+target/
+*.jar
+libs/
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.classpath
+*.project
+.settings/
+
+# DB credentials - NEVER commit this
+src/main/resources/db.properties
+
+# OS files
+.DS_Store
+Thumbs.db
