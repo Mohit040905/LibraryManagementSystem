@@ -17,3 +17,4 @@ src/main/resources/db.properties
 # OS files
 .DS_Store
 Thumbs.db
+#Library Management project implemeneted successsfully
