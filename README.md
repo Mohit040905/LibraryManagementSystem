@@ -4,7 +4,7 @@ A console-based **Library Management System** built with **Core Java, JDBC, and 
 
 ---
 
-## 🛠️ Tech Stack
+# Tech Stack
 
 | Layer        | Technology              |
 |--------------|-------------------------|
