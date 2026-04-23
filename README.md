@@ -1,10 +1,10 @@
-# Library Management System
+## Library Management System
 
 A console-based **Library Management System** built with **Core Java, JDBC, and MySQL**. Demonstrates clean OOP design with a layered architecture (Model → DAO → Service → UI).
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 | Layer        | Technology              |
 |--------------|-------------------------|
@@ -16,7 +16,7 @@ A console-based **Library Management System** built with **Core Java, JDBC, and 
 
 ---
 
-# Project Structure
+## Project Structure
 
 ```
 LibraryManagementSystem/
