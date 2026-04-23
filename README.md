@@ -16,7 +16,7 @@ A console-based **Library Management System** built with **Core Java, JDBC, and 
 
 ---
 
-## 📁 Project Structure
+# Project Structure
 
 ```
 LibraryManagementSystem/
