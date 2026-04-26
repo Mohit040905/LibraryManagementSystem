@@ -79,7 +79,7 @@ java -cp "LibraryManagementSystem.jar;libs/*" com.library.Main
 
 ---
 
-## ✨ Features
+## Features
 
 - **Book Management** — Add, search (by title/author), view all, delete books
 - **Member Management** — Register members, view all members
