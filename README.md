@@ -90,7 +90,7 @@ java -cp "LibraryManagementSystem.jar;libs/*" com.library.Main
 
 ---
 
-## 🗄️ Database Schema
+## Database Schema
 
 ```sql
 books          (book_id, title, author, genre, total_copies, available_copies, added_on)
