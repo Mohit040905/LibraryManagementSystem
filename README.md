@@ -1,6 +1,6 @@
 ## Library Management System
 
-Library Management System is a console-based **Library Management System** built  with **Core Java, JDBC, and MySQL**. Demonstrates clean OOPs design with a layered architecture (Model → DAO → Service → UI).
+A console-based **Library Management System** built  with **Core Java, JDBC, and MySQL**. Demonstrates clean OOPs design with a layered architecture (Model → DAO → Service → UI).
 
 ---
 
